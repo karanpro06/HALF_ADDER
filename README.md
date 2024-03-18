@@ -1,4 +1,8 @@
 # HALF_ADDER
+# Aim
+To Study and Verify Half Adder using vivado.
+# Apparatus Required
+Personal Computer with Vivado Software.
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/fe672c28-5c6a-4355-b70f-b40bce63880d)
 # Circuit Diagram
